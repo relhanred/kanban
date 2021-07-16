@@ -1,4 +1,4 @@
-# KANBAN
+# SIMPLE KANBAN WITH MEVN (MongoDB Express VueJs Node)
 
 
 ## Prerequisites
@@ -13,7 +13,7 @@ VueJs   :
  npm install -g @vue/cli
  ```
 
-MongoDB : 
+MongoDB : \
         - Linux   : https://docs.mongodb.com/manual/administration/install-on-linux/ \
         - Windows : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/ \
         - MacOS   : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/ \
@@ -34,7 +34,7 @@ npm install
 npm run dev
 ```
 
-### FrontEnd execution only
+### Frontend execution only
 ```
 npm run frontend
 ```
