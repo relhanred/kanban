@@ -14,9 +14,9 @@ VueJs   :
  ```
 
 MongoDB : 
-        - Linux   : https://docs.mongodb.com/manual/administration/install-on-linux/
-        - Windows : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
-        - MacOS   : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+        - Linux   : https://docs.mongodb.com/manual/administration/install-on-linux/ \
+        - Windows : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/ \
+        - MacOS   : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/ \
         
 ## Project setup
 ```
