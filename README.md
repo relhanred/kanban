@@ -29,7 +29,7 @@ cd frontend
 npm install
 ```
 
-__Open _.env_ file and setup your own mongoDB username, password and database__. 
+Open __.env__ file and setup your own mongoDB username, password and database. 
 
 ### FullProject execution
 ```
