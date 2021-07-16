@@ -29,6 +29,8 @@ cd frontend
 npm install
 ```
 
+Open _.env_ file and setup your own mongoDB username, password and database. 
+
 ### FullProject execution
 ```
 npm run dev
