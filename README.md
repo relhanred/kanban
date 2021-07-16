@@ -1,4 +1,4 @@
-# SIMPLE KANBAN WITH MEVN (MongoDB Express VueJs Node)
+# KANBAN 
 
 
 ## Prerequisites
